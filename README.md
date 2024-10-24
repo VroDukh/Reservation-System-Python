@@ -1,6 +1,6 @@
 High-school Project
 
-Title: Bus E-Ticket Reservation System (Python, MySQL)
+Title: Point of Sale system for Bus E-Ticket Reservation (Python, MySQL)
 
 
 Description:
