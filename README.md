@@ -1,4 +1,4 @@
-High-school Project
+Learning SQL Project
 
 Title: Point of Sale system for Bus E-Ticket Reservation (Python, MySQL)
 
@@ -17,3 +17,5 @@ Leveraged Python libraries like tabulate to display data in a clear and organize
 Demonstrated proficiency in database management using MySQL connector (mysql.connector).
 
 Implemented a Billing System.
+
+Planning to incorporate UI elements and abilities to pull actual real world information in the future
